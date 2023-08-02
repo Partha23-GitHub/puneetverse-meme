@@ -4,7 +4,6 @@ package com.puneetverse.controllers;
 import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.data.repository.query.Param;
 import org.springframework.http.HttpStatus;
